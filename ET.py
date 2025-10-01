@@ -2,7 +2,7 @@ import json
 import os
 
 # The list hold the expense in memory whule program run
-expense = []
+expenses = []
 
 def add_expense():
     print("\n -------- Add a New Expense --------")
